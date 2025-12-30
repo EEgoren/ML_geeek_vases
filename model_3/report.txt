@@ -1,0 +1,13 @@
+CONFUSION MATRIX (rows=true, cols=pred)
+[[19 13]
+ [ 3 60]]
+
+              precision    recall  f1-score   support
+
+      female      0.864     0.594     0.704        32
+        male      0.822     0.952     0.882        63
+
+    accuracy                          0.832        95
+   macro avg      0.843     0.773     0.793        95
+weighted avg      0.836     0.832     0.822        95
+
